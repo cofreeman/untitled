@@ -9,18 +9,21 @@ class controllerTest {
 
     @Test
     void skdsk(){
-        assertThat(1).isEqualTo(1);
+        String s = "123";
+        assertThat(s).isNotNull();
 
     }
 
     @Test
     void sd(){
-        assertThat(1).isEqualTo(1);
+        String s = "123";
+        assertThat(s).isNotNull();
 
     }
     @Test
     void sds(){
-        assertThat(1).isEqualTo(1);
+        String s = "123";
+        assertThat(s).isNotNull();
 
     }
 
